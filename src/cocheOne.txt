@@ -1,0 +1,19 @@
+Coche: Registred by Max
+ID:19  Firstname: uggi     Surname: Petsen    Time : 03.4 SwimmingDisplin: Breastswimming
+ID:20  Firstname :kira     Surname :li        Time : 06.3 SwimmingDisplin: Breastswimming
+ID:21  Firstname :wei    Surname :we        Time : 07.8 SwimmingDisplin: Breastswimming
+ID:22  Firstname :Karen    Surname :tama      Time : 08.9 SwimmingDisplin: Breastswimming
+ID:23  Firstname :Ali      Surname :lad       Time : 11.2 SwimmingDisplin: Breastswimming
+Coche: Registred by Max
+ID:5    Firstname: ugbaad     Surname: P   Time : 06.6 SwimmingDisplin: Backswimming
+ID:6    Firstname :Kira     Surname :Lana      Time : 08.4 SwimmingDisplin: Backswimming
+ID:8    Firstname :Lasse    Surname :Lani      Time : 09.3 SwimmingDisplin: Backswimming
+ID:9    Firstname :Lira     Surname :Oli       Time : 9.8 SwimmingDisplin: Backswimming
+ID:10   Firstname :Mina     Surname :Alisens   Time : 10.2 SwimmingDisplin: Backswimming
+Coche: Registred by Max
+ID:11   Firstname: Jens     Surname: Se       Time : 01.3 SwimmingDisplin: Butterfly
+ID:13   Firstname :Sita     Surname :Sira      Time : 02.6 SwimmingDisplin: Butterfly
+ID:15   Firstname :La       Surname :Ls     Time : 04.7 SwimmingDisplin: Butterfly
+ID:6    Firstname :muna     Surname :Fira      Time : 09.8 SwimmingDisplin: Butterfly
+ID:17   Firstname :munira    Surname :abdi      Time : 11.7 SwimmingDisplin: Butterfly
+

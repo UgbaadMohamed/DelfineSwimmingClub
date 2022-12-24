@@ -1,0 +1,18 @@
+Coche: Registred by Fatima
+ID:5    Firstname: Ole      Surname: Petsen    Time : 03.1 SwimmingDisplin: Breastswimming
+ID:6    Firstname :Jane     Surname :kirslund  Time : 05.3 SwimmingDisplin: Breastswimming
+ID:8    Firstname :Klause   Surname :Karinasen Time : 08.4 SwimmingDisplin: Breasswimming
+ID:9    Firstname :Karen    Surname :Karensen  Time : 9.6 SwimmingDisplin: Breastswimming
+ID:10   Firstname :Per      Surname :Alisens   Time : 12.8 SwimmingDisplin: Breastswimming
+Coche: Registred by Fatima
+ID:5    Firstname: Jens     Surname: Petsen    Time : 04.6 SwimmingDisplin: Backswimming
+ID:6    Firstname :Kira     Surname :kirslund  Time : 08.4 SwimmingDisplin: Backswimming
+ID:8    Firstname :Laura    Surname :Karinasen Time : 09.8 SwimmingDisplin: Backswimming
+ID:9    Firstname :Lira     Surname :Karensen  Time : 10.3 SwimmingDisplin: Backswimming
+ID:10   Firstname :Suna     Surname :Alisens   Time : 19.2 SwimmingDisplin: Backswimming
+Coche: Registred by Fatima
+ID:11   Firstname: Jens     Surname: Åle       Time : 01.3 SwimmingDisplin: Butterfly
+ID:13   Firstname :Kira     Surname :Sira      Time : 04.4 SwimmingDisplin: Butterfly
+ID:15   Firstname :Laura    Surname :Kina      Time : 03.2 SwimmingDisplin: Butterfly
+ID:6    Firstname :Lira     Surname :osli      Time : 7.1 SwimmingDisplin: Butterfly
+ID:17   Firstname :Suna     Surname :Kane      Time : 9.3 SwimmingDisplin: Butterfly
